@@ -1,0 +1,21 @@
+{
+  "name": "mui-35287",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@mui/material": "5.10.17",
+    "@types/react": "17.0.52",
+    "react": "17.0.2",
+    "typescript": "4.9.3"
+  },
+  "scripts": {
+    "start": "tsc"
+  }
+}
